@@ -1,6 +1,5 @@
 <div class="margin: 0 auto;"> 
 <h3>Hi there 👋 </h3>
-<img src=https://media.giphy.com/media/3o7qE1TfOPGlb5M5hu/giphy.gif></img>
 </div>
 
 Here's what I'm currently working on 🧑🏻‍💻 
