@@ -1,7 +1,6 @@
+Software Engineer at Bloomberg, Fullstack Academy and Baruch College graduate. Interested in web/mobile development technologies. 
 
-Teaching Fellow at Fullstack Academy and Baruch College graduate. Interested in web/mobile development technologies. 
-
-Let's create. 🚀
+Let's create! 🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikemcmanus95/)](https://www.linkedin.com/in/mikemcmanus95)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikemcmanus95@gmail.com)](mailto:mikemcmanus95@gmail.com)
