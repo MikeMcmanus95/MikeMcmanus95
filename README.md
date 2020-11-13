@@ -1,4 +1,4 @@
-Software Engineer at Bloomberg, Fullstack Academy and Baruch College graduate. Interested in web/mobile development technologies. 
+Software Engineer at Bloomberg. Fullstack Academy and Baruch College graduate. Interested in web/mobile development technologies. 
 
 Let's create! 🚀
 
