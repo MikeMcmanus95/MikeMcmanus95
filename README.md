@@ -1,5 +1,3 @@
-I like JavaScript.
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikemcmanus95/)](https://www.linkedin.com/in/mikemcmanus95)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikemcmanus95@gmail.com)](mailto:mikemcmanus95@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio%20Site-brightgreen)](https://www.mikedoesthing.com)
